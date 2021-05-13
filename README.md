@@ -24,8 +24,3 @@ I am pre-final year student pursuing Computer Science at SSN College of Engineer
 <h2>My Dev Statistics</h2>
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=snehask7&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<h2>Connect with me</h2>
-<h4>My Portfolio: <a href="https://snehasriram.com/"> snehasriram.com</h4>
-<a href=""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href=""> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href=""> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
