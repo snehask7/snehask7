@@ -59,7 +59,7 @@
 
 				h1 {
 				  font-family: Monospace;
-				  font-size:50em;
+				  font-size:30em;
 				}
 
 				@keyframes slide {
