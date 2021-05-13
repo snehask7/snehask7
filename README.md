@@ -26,3 +26,19 @@ I am pre-final year student pursuing Computer Science at SSN College of Engineer
 
 <h2>Connect with me</h2>
 My Portfolio: <a href="https://snehasriram.com/"> snehasriram.com</a>
+<div
+  class='LI-profile-badge'
+  data-version='v1'
+  data-size='medium'
+  data-locale='en_US'
+  data-type='horizontal'
+  data-theme='dark'
+  data-vanity='manavoza7'
+>
+  <a
+    class='LI-simple-link'
+    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
+  >
+    Manav Oza
+  </a>
+</div>
