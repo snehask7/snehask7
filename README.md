@@ -1,4 +1,4 @@
-<img src="./heading.svg">
+<img src="./heading.gif">
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/snehask7/count.svg" />
 </p>
