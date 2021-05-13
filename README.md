@@ -25,4 +25,4 @@ I am pre-final year student pursuing Computer Science at SSN College of Engineer
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=snehask7&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <h2>Connect with me</h2>
-My Portfolio: <a href="www.snehasriram.com"> www.snehasriram.com</a>
+My Portfolio: <a href="https://snehasriram.com/"> www.snehasriram.com</a>
