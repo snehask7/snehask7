@@ -23,4 +23,6 @@ I am pre-final year student pursuing Computer Science at SSN College of Engineer
 </p>
 <h2>My Dev Statistics</h2>
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=snehask7&show_icons=true&hide_border=true&theme=tokyonight" />
-
+<h2>Connect with me</h2>
+<a href="https://www.linkedin.com/in/sneha-kannan-/"><img src="https://img.shields.io/badge/-Sneha Kannan%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sneha18157@cse.ssn.edu.in"><img src="https://img.shields.io/badge/-sneha18157@cse.ssn.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
