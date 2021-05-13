@@ -4,7 +4,7 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/snehask7/count.svg" />
 </p>
-<b>About Me</b>
+<h2>About Me</h2><br>
 I am an undergraduate student of Computer Science at SSN College of Engineering and an aspiring full stack developer. 
 
 <b>My Dev Statistics</b>
