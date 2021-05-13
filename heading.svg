@@ -56,7 +56,7 @@
 				}
 
 				h1 {
-				  font-family: Arial;
+				  font-family: Monospace;
 				}
 
 				@keyframes slide {
