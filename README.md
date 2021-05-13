@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="./heading.svg">
+
 
 <!--
 **snehask7/snehask7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
