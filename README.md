@@ -1,4 +1,6 @@
+<p align="center"> 
 <img src="https://github.com/snehask7/snehask7/blob/main/Header.gif" alt="Hi, my name is Sneha Sriram" align="center" />
+</p>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/snehask7/count.svg" />
 </p>
