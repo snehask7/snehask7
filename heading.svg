@@ -53,13 +53,10 @@
 				  text-align:center;
 				  top:50%;
 				  transform:translate(-50%, -50%);
-				  width:500em;
-				  height:100em;
 				}
 
 				h1 {
 				  font-family: Monospace;
-				  font-size:30em;
 				}
 
 				@keyframes slide {
