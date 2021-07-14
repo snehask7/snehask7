@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/snehask7/count.svg" />
 </p>
 <h2>About Me</h2>
-I am pre-final year student pursuing Computer Science at SSN College of Engineering. I am currently into Fullstack Development and I've worked on a few interesting projects. I love exploring new technologies and enhancing my technical skills! 
+I'm a final year student pursuing Computer Science at SSN College of Engineering. I am currently into Fullstack Development and I've worked on a few interesting projects. I love exploring new technologies and enhancing my technical skills! 
 <h2>Languages and Tools</h2>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
